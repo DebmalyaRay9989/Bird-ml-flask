@@ -4,10 +4,7 @@ click==7.1.2
 Flask==1.1.2
 idna==2.10
 itsdangerous==1.1.0
-<<<<<<< HEAD
-=======
 tensorflow==2.7.1
->>>>>>> 7d51995db3cdae1a6800a7b684a7f0a203614445
 Jinja2==2.11.2
 joblib==0.15.1
 jsonify==0.5
@@ -27,8 +24,5 @@ Werkzeug==1.0.1
 wincertstore==0.2
 nltk==3.6.5
 jsonschema==3.2.0
-<<<<<<< HEAD
 gunicorn
-=======
-gunicorn
->>>>>>> 7d51995db3cdae1a6800a7b684a7f0a203614445
+
